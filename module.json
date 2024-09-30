@@ -1,0 +1,43 @@
+{
+  "id": "siemema-beastmaster",
+  "title": "Siemema - Beastmaster",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dsa5",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Das Schwarze Auge 5 - Mini-Kampagne Beastmaster. Nur fuer private Nutzung auf https://siemema.de\n\nThe Dark Eye 5 - Mini-Campaign Beastmaster. Only for private use on https://siemema.de",
+  "authors": [
+    {
+      "name": "siemema",
+      "discord": "siemema",
+      "email": "siemema@gmail.com",
+      "url": "https://siemema.de",
+      "flags": {}
+    }
+  ],
+  "url": "https://siemema.de",
+  "packs": [
+    {
+      "name": "beastmaster",
+      "label": "Beastmaster",
+      "path": "packs/beastmaster",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dsa5",
+      "flags": {}
+    }
+  ]
+}
