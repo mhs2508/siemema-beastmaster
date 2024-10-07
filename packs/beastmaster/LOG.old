@@ -1,5 +1,3 @@
-2024/10/02-22:08:02.172647 ffffa8d2e0a0 Recovering log #41
-2024/10/02-22:08:02.177685 ffffa8d2e0a0 Level-0 table #43: started
-2024/10/02-22:08:02.188254 ffffa8d2e0a0 Level-0 table #43: 116051 bytes OK
-2024/10/02-22:08:02.197858 ffffa8d2e0a0 Delete type=0 #41
-2024/10/02-22:08:02.198564 ffffa8d2e0a0 Delete type=3 #40
+2024/10/07-11:23:15.986719 ffff727cf0a0 Recovering log #59
+2024/10/07-11:23:15.997100 ffff727cf0a0 Delete type=0 #59
+2024/10/07-11:23:15.997269 ffff727cf0a0 Delete type=3 #58
