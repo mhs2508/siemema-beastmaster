@@ -1,10 +1,10 @@
 {
   "id": "siemema-beastmaster",
   "title": "Siemema - Beastmaster",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
@@ -32,12 +32,11 @@
       "label": "Beastmaster",
       "path": "packs/beastmaster",
       "type": "Adventure",
+      "system": "dsa5",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dsa5",
-      "flags": {}
+      }
     }
   ]
 }
